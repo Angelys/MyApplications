@@ -26,6 +26,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         btnOk.setOnClickListener(this);
     }
 
+	@Override
     public void OnClickStart(View view){
 
     }
